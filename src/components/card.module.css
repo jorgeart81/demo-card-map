@@ -1,0 +1,18 @@
+.cardContainer {
+  border-radius: 0.5rem;
+  border: 2px solid white;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.container p {
+  margin: 0;
+}
+
+.selectorContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  justify-content: center;
+}
